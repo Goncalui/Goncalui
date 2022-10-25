@@ -1,0 +1,1 @@
+You can generate your own profile contribuition for grid-snake on https://platane.github.io/snk/
