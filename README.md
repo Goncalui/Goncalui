@@ -18,11 +18,12 @@ Além disso, esclua os comentários como esse -->
 ### Ferramentas e Tecnologias
 
 <!-- Utilize o https://devicon.dev/ para mais ícones, esses são apenas exemplos -->
-
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
           
+</div>
 
 
 ### Estou aprendendo
