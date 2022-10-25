@@ -22,12 +22,22 @@ Além disso, esclua os comentários como esse -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
-          
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+
+
 </div>
 
 
 ### Estou aprendendo
 
+<div>
+         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  
+</div>    
 
 ### Contatos:
 
@@ -42,4 +52,4 @@ Além disso, esclua os comentários como esse -->
 
 <!--Para esta etapa funcionar, é necessário abrir uma workflow com o código em yml -->
 
- ![Snake animation](https://github.com/camilafernanda2/camilafernanda2/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/goncalui/goncalui/blob/output/github-contribution-grid-snake.svg)
