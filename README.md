@@ -78,7 +78,7 @@ Além disso, esclua os comentários como esse -->
  
  
  <div><a href="https://github.com/Goncalui">
- <img width="320em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goncalui&layout=compact&langs_count=7&theme=dracula"/>
- <img width="320em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Goncalui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goncalui&layout=compact&langs_count=7&theme=dracula"/>
+ <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Goncalui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  </div>
 
