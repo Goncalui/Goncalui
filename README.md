@@ -77,5 +77,8 @@ Além disso, esclua os comentários como esse -->
  ![Snake animation](https://github.com/Goncalui/Goncalui/blob/main/blob/output/github-contribuition-grid-snake.svg)
  
  
- <div><a href="https://github.com/Goncalui"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goncalui&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Goncalui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
+ <div><a href="https://github.com/Goncalui">
+ <img width="120em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goncalui&layout=compact&langs_count=7&theme=dracula"/>
+ <img width="120em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Goncalui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ </div>
 
