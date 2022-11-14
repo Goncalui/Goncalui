@@ -74,7 +74,7 @@ Além disso, esclua os comentários como esse -->
 
 <!--Para esta etapa funcionar, é necessário abrir uma workflow com o código em yml -->
 
- ![Snake animation](https://github.com/Goncalui/Goncalui/blob/main/blob/output/github-contribuition-grid-snake.svg)
+ ![Snake animation](https://github.com/Goncalui/Goncalui/blob/output/github-contribution-grid-snake.svg)
  
  
  <div><a href="https://github.com/Goncalui">
